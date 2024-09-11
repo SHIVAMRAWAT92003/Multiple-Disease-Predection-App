@@ -37,8 +37,8 @@ st.markdown("""
 
 #loading the saved model
 diabetes_model = pickle.load(open('Saved Model/trained_model.sav', 'rb'))
-heart_disease_model = pickle.load(open('C:/Users/SHIVAM RAWAT/OneDrive/Desktop/Multiple Disease Prediction System/Saved Model/heart_disease_model.sav','rb'))
-parkinsons_model = pickle.load(open('C:/Users/SHIVAM RAWAT/OneDrive/Desktop/Multiple Disease Prediction System/Saved Model/parkinsons_model.sav','rb'))
+heart_disease_model = pickle.load(open('Saved Model/heart_disease_model.sav', 'rb'))
+parkinsons_model = pickle.load(open('Saved Model/parkinsons_model.sav', 'rb'))
 
 #side bar for navigation
 
