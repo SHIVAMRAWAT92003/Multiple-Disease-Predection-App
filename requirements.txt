@@ -1,6 +1,4 @@
-pickle
-streamlit 
-streamlit_option_menu 
-option_menu
-sklearn
-pickle
+numpy
+scikit-learn
+streamlit
+streamlit-option-menu
