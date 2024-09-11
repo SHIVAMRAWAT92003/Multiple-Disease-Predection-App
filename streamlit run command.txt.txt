@@ -1,0 +1,5 @@
+streamlit run "C:\Users\SHIVAM RAWAT\OneDrive\Desktop\Multiple Disease Prediction System\mdps.py"
+
+
+run python in vs code terminal ==> python filename.py
+run stream in vs code terminal ==> python -m streamlit run filename.py
