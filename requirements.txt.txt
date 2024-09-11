@@ -1,0 +1,6 @@
+pickle
+streamlit 
+streamlit_option_menu 
+option_menu
+sklearn
+pickle
